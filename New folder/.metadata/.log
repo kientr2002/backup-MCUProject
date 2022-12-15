@@ -1,0 +1,21 @@
+!SESSION 2022-12-15 08:50:48.119 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-15 08:51:12.935
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-15 08:51:13.034
+!MESSAGE Log4j initialized with config file D:\Workspace\VXL\Test\UART_for_Assignment\New folder\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-15 08:51:19.001
+!MESSAGE Started RMI Server, listening on port 41339
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2022-12-15 08:55:04.885
+!MESSAGE No repository found at https://download.eclipse.org/releases/2021-03.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-15 08:57:00.227
+!MESSAGE Indexed 'test_UART' (19 sources, 78 headers) in 3.72 sec: 3,647 declarations; 13,057 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
